@@ -1,0 +1,16 @@
+#!/usr/bin/ksh
+#
+#
+# Automate an FTP session
+# robert.will.brown@gmail.com
+#
+SERVERNAME="ps.ioko.com"
+USERNAME="anonymous"
+PASSWD="robert.will.brown@gmail.com"
+
+ftp -n ${SERVERNAME}<<EOFTP
+user ${USERNAME} ${PASSWD}
+bin
+ls
+bye
+EOFTP
