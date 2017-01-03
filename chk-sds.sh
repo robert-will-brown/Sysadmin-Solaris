@@ -3,6 +3,8 @@
 # Script to check that any configured SDS (disksuite)
 # metadevies are not in an errored state.
 #
+# robert.will.brown@gmail.com - 6/Oct/2008 
+#
 #
 SUBJECT="Disksuite problem with `hostname` @ `date`"
 MESSAGE="A problem with disksuite was detected by the `echo ${0}` script."

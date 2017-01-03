@@ -2,7 +2,7 @@
 #
 # Deport a zone and stick it on shared storage.
 # RB
-#
+# robert.will.brown@gmail.com - 9/Oct/2008
 #
 #
 ZFS_SEND_PATH=/share/dump

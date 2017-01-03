@@ -1,7 +1,7 @@
 #!/usr/bin/ksh
 #
 #
-#
+# robert.will.brown@gmail.com - 9/Oct/2008
 THIS_SCRIPT=`basename ${0}`
 
 #

@@ -2,7 +2,7 @@
 #
 # Show who is logged into which Zone.
 #
-# rob.brown@ioko.com
+# rob.brown@ioko.com - 24/Oct/2008
 #
 
 #

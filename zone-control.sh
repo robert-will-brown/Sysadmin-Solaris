@@ -2,6 +2,8 @@
 #
 # Control all zones in one hit
 #
+# robert.will.brown@gmail.com - 26/Oct/2008
+#
 FORMAT="%10s"
 
 if [ "${#}" = "0" ];

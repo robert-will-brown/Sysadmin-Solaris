@@ -2,7 +2,8 @@
 #
 # Print HBAs and usefull information.
 #
-# rb
+# robert.will.brown@gmail.com
+# 1/Jan/2009
 #
 PATH=/usr/sbin:/usr/bin
 

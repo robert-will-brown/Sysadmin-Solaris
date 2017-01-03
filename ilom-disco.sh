@@ -2,7 +2,7 @@
 #
 # Set all the blade lights to flash like it's saturday night.
 # When will I grow up....?
-# rob.brown@ioko.com
+# rob.brown@ioko.com - 17/Apr/2009
 #
 # OFF          Off
 # ON           Steady On

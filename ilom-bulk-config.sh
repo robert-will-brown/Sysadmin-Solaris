@@ -4,6 +4,7 @@
 # based on a static text file mapping of:
 #
 # hostname:ILOM IP:ILOM Netmask:ILOM Gateway
+# robert.will.brown@gmail.com - 16/Apr/2009
 #
 INPUTFILE="ilom-details"
 PATH=/usr/sbin:/usr/bin

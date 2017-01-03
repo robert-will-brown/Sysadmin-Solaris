@@ -2,6 +2,7 @@
 #
 # Show zones and proccess count.
 #
+# robert.will.brown@gmail.com - 9/Oct/2008
 while sleep 3
 do
 	clear

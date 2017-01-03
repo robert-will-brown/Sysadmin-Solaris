@@ -2,7 +2,7 @@
 #
 # Run from cron - Snapshot all the named zfs filesystems.
 #
-# rob.brown@ioko.com
+# rob.brown@ioko.com - 26/Oct/2008
 #
 HOUR=`date +%I`
 MERIDIEM=`date +"%r" |awk '{print $2}' |tr "[A-Z]" "[a-z]"`

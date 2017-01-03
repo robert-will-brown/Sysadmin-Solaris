@@ -2,6 +2,7 @@
 #
 # Purpose: Set Interfaces for ipmp
 #
+# robert.will.brown@gmail.com - 26/Jun/2007
 PRI_INT=$1
 SEC_INT=$2
 

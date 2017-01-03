@@ -2,7 +2,7 @@
 #
 # Create Flash Archive
 #
-# rob.brown@ioko.com
+# rob.brown@ioko.com - 28/Sep/2008
 #
 HOSTNAME=`hostname`
 DATE=`date +%H%M-%d-%h-%Y`

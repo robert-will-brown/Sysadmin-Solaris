@@ -2,6 +2,7 @@
 #
 # Print the network configuration of the ILOM
 #
+# robert.will.brown@gmail.com - 16/Apr/209
 PATH=/usr/sbin:/usr/bin
 LED="sys.locate.led"
 

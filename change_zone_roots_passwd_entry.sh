@@ -1,6 +1,8 @@
 #!/usr/bin/ksh
 #
 # Change root shell and home dir, normally called from jumpstart.  RB
+# robert.will.brown@gmail.com
+# 1/Sep/2008
 #
 if [ $1 = "" ];then
 	echo no passwd path

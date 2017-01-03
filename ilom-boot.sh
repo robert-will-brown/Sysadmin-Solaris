@@ -3,6 +3,7 @@
 # Select which device to boot from on the next boot
 #
 # rob.brown@ioko.com (from an idea by alex)
+# robert.will.brown@gmail.com - 16/Apr/2009
 #
 PATH=/usr/sbin:/usr/bin
 BOOTDEV=$1

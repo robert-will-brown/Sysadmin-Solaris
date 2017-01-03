@@ -2,6 +2,8 @@
 #
 # Print the currently running NFS v4 domain.
 #
+# robert.will.brown@gmail.com - 25/Nov/2008
+
 CURRENT_DOMAIN_FILE=/var/run/nfs4_domain
 CONFIG_DOMAIN_FILE=/etc/default/nfs
 

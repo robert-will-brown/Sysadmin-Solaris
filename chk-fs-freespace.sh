@@ -2,6 +2,8 @@
 #
 # Purpose: Check if filesystems are full
 # Platfrom: All 
+# robert.will.brown@gmail.com
+# 1/Sep/2008 
 #
 HIGH_WATER="80"
 

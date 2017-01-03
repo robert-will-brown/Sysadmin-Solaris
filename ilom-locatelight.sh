@@ -8,6 +8,8 @@
 # SLOW         1HZ blink rate
 # FAST         4HZ blink rate
 #
+# rober.will.brown@gmail.com - 16/Apr/2009
+#
 PATH=/usr/sbin:/usr/bin
 LED="sys.locate.led"
 
